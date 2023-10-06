@@ -1,6 +1,7 @@
 # Projeto: *UML*
 
-# Grupo:  Anshu Li                   T.I.A.: 3232961
+# Grupo:  gg
+Anshu Li                   T.I.A.: 3232961
 Caroline Begiato      T.I.A.: 32366256
  Rafaela                    T.I.A.: 42336831
 Karina                      T.I.A.: 32343256
